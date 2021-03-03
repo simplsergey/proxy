@@ -6,7 +6,7 @@
   ],
   "boolean": true,
   "color": "gold",
-  "someOption": "allowed",
+  "someOption": "disabled",
   "null": null,
   "number": 123,
   "object": {
