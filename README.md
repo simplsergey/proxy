@@ -1,2 +1,2 @@
 # Hello
-you can get ip with this link https://github.com/sergiye/proxy/raw/main/externalIp.json
+You can get current values from this link: https://github.com/sergiye/proxy/raw/main/localData.json
